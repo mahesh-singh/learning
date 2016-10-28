@@ -12,4 +12,4 @@
   
   f. https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf
   
-  g. 
+  g. http://blog.wolfire.com/2009/07/linear-algebra-for-game-developers-part-1/
